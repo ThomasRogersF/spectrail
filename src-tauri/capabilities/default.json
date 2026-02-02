@@ -1,0 +1,11 @@
+{
+  "identifier": "default",
+  "description": "Default capability set for SpecTrail",
+  "windows": [
+    "main"
+  ],
+  "permissions": [
+    "core:default",
+    "dialog:default"
+  ]
+}
